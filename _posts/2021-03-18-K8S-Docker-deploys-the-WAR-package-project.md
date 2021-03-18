@@ -1,9 +1,9 @@
 ---
 layout: post
 title: K8S + docker部署war包项目
-categories: [K8S, docker]
+categories: [k8s, docker]
 description: K8S + docker部署war包项目
-keywords: K8S, docker, war包
+keywords: k8s, docker, war包
 ---
 
 ## 背景
