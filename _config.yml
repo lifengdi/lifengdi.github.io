@@ -121,14 +121,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: lifengdi
-    repo: lifengdi's blog comments
+    repo: gitalk-comment
     oauth:
         client_id: aa79b9cf4cae38a1756c
         client_secret: 3b222b3e9f6a6c74ff007b5647c8b74d8baa1c5d
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lifengdi
-    repo: lifengdi's blog comments
+    repo: gitalk-comment
     clientID: aa79b9cf4cae38a1756c
     clientSecret: 3b222b3e9f6a6c74ff007b5647c8b74d8baa1c5d
 # 在使用其它评论组件时可点击显示 Disqus
