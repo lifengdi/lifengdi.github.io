@@ -10,7 +10,7 @@ description: "李锋镝的个人博客"
 keywords: 李锋镝, Li Fengdi, 程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 3
 repository: lifengdi/lifengdi.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
