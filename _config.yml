@@ -120,11 +120,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: lifengdi
     repo: lifengdi's blog comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: aa79b9cf4cae38a1756c
+        client_secret: 3b222b3e9f6a6c74ff007b5647c8b74d8baa1c5d
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lifengdi
