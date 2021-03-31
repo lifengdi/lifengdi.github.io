@@ -87,7 +87,7 @@ topmost: false
 ```
 页面效果：
 
-![示例图片](https://www.lifengdi.com/wp-content/uploads/2019/06/book.jpg "示例图片")
+![示例图片](/images/post/annie-spratt-Wk59jZg_1es-unsplash.jpg "示例图片")
 
 # 超链接
 ```
