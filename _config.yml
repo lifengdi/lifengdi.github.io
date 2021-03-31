@@ -4,7 +4,7 @@
 baseurl:
 url: https://lifengdi.github.io
 date_format: "ordinal"
-title: 木子
+title: 风笛
 subtitle: "时光不负有心人"
 description: "李锋镝的个人博客"
 keywords: 李锋镝, Li Fengdi, 程序员
@@ -20,7 +20,7 @@ cdn:
 components:
     # 分享
     share:
-        enabled: false
+        enabled: true
     # 不蒜子访问统计
     busuanzi:
         enabled: true
